@@ -2,7 +2,7 @@
 Simple web synthesizer. My first web-project. All sounds were gently recorded by me using Akai MPK mini Plus with embedded plugin library "MPC Beats". 
 
 ## Demo
-Try on https://evgkl98.github.io/synth/
+Try on https://evgkl98.github.io/WebSynth-Project
 
 ## Features
 - C3 and C4 octaves
