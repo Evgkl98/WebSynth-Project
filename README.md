@@ -9,6 +9,7 @@ Try on https://evgkl98.github.io/WebSynth-Project
 - Power On/Off toggle switch
 - Volume Control
 - Keys hint toggle button
+- Keyboard control
 - Fancy design
 
 Please note that design is not responsive yet.
