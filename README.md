@@ -1,5 +1,6 @@
 # Web Synthesizer
 Simple web synthesizer. My first web-project. All sounds were gently recorded by me using Akai MPK mini Plus with embedded plugin library "MPC Beats". 
+<img src="https://github.com/Evgkl98/WebSynth-Project/blob/main/demo.png">
 
 ## Demo
 Try on https://evgkl98.github.io/WebSynth-Project
@@ -14,5 +15,5 @@ Try on https://evgkl98.github.io/WebSynth-Project
 
 Please note that design is not responsive yet.
 
-## Tech
+## Built in
 HTML, CSS, JavaScript
